@@ -7,4 +7,13 @@ contract TestBytes{
     bytes6 public  b6 = "123456"; // 不能够超字节  
 
 
+     bytes32 public  b32 ="hallen";
+
+     function get_lan() public view returns (uint256){   // 这里你能用int 因为长度不能为负数
+        return  b32.length;
+     }
+
+     function get_by_index()public view returns (bytes32){
+        return b32[0];
+     }
 }
