@@ -1,0 +1,85 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "b1",
+				"outputs": [
+					{
+						"internalType": "bytes1",
+						"name": "",
+						"type": "bytes1"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "b2",
+				"outputs": [
+					{
+						"internalType": "bytes2",
+						"name": "",
+						"type": "bytes2"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "b6",
+				"outputs": [
+					{
+						"internalType": "bytes6",
+						"name": "",
+						"type": "bytes6"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"demo/03_bytes.sol": "TestBytes"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"demo/03_bytes.sol": {
+			"keccak256": "0xa6fb31964c33ecfdf554aa3001fe62a3514b230c88a51241fb82109e957dde33",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://9d82347709608ec834cc809cf220364526cdfe516588c29f40916b441e8e2d42",
+				"dweb:/ipfs/QmQkqY4BZaGgGo6R4UuBcNmXwDhQk9F8HAQWhRoLwyDDS2"
+			]
+		}
+	},
+	"version": 1
+}
