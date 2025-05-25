@@ -112,11 +112,11 @@
 	},
 	"sources": {
 		"demo/03_bytes.sol": {
-			"keccak256": "0x7b415a6dfd5a1f07b95eadb35e604e535fee436a49c64596360a1eed3c3d93a8",
+			"keccak256": "0x67823bef79849cab81ee6016e534b02f0b6e8ca53c237c7a951e778e5fd1c758",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://9e50bd4acf01e1fb48521a1246753c260cc10988539f7ffb0b7b857edc1ffe6d",
-				"dweb:/ipfs/QmdGJG3AqgBsUeFdCiTQ9UuZyPjFCBA4dVMq5pin79FE83"
+				"bzz-raw://95b7ce8ea8c40a2e201e0ce4e538edfc4d807007ee33df70bdc574362b61d7dd",
+				"dweb:/ipfs/QmNybJrFWWC9xrFMjjv7WyWLHsWH7CgtuzzuGaNzYS12Hh"
 			]
 		}
 	},

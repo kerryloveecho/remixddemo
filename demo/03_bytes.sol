@@ -14,6 +14,6 @@ contract TestBytes{
      }
 
      function get_by_index()public view returns (bytes32){
-        return b32[0];
+        return b32[0];  //可以通过下标获取值
      }
 }
